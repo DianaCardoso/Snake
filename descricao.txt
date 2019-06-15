@@ -1,0 +1,4 @@
+Jogo da cobra
+Objetivo é comer a comida, crescer de tamanho e nao se comer ou encostar nas paredes.
+
+Tem musica de fundo, mas ainda vou colocar um som para quando a cobra comer a comida.
